@@ -22,19 +22,19 @@
 
 "inter_count" : 2,
 
-"enable_strap" : false,
-"enable_strap_Splah" : false,
+"enable_strap" : true,
+"enable_strap_Splah" : true,
 
 "ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "209399517",
 
-"admob_banner" : "ca-app-pub-",
-"admob_inter" : "ca-app-pub-",
-"admob_native" : "ca-app-pub-",
+"admob_banner" : "ca-app-pub-9704135405661143/6904390599",
+"admob_inter" : "ca-app-pub-9704135405661143/5591308922",
+"admob_native" : "ca-app-pub-9704135405661143/7817661799",
 
 "hpk_alien" : "kuota data 30gb",
 "hpkadmob1" : "Kuota Data",
